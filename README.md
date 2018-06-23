@@ -1,7 +1,7 @@
 # myGit
 Git Hub Usage,tricks Notes 
 
-###Create a new branch with git and manage branches
+### Create a new branch with git and manage branches
 ---
 
 In your github fork, you need to keep your master branch clean, by clean I mean without any changes, like that you can create at any time a branch from your master. Each time that you want to commit a bug or a feature, you need to create a branch for it, which will be a copy of your master branch.
