@@ -19,10 +19,10 @@ Push the branch on github :
 When you want to commit something in your branch, be sure to be in your branch. Add -u parameter to set upstream.
 
 Create a new branch:
-git checkout -b feature_branch_name
-Edit, add and commit your files.
-Push your branch to the remote repository:
-git push -u origin feature_branch_name
+`git checkout -b feature_branch_name`
+
+Edit, add and commit your files.Push your branch to the remote repository:
+`git push -u origin feature_branch_name`
 
 You can see all branches created by using :
 `$ git branch`
