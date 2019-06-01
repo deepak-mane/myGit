@@ -25,7 +25,7 @@ git status -sb
 
 git remote -v            # show remote origin info
 ```
-# reset what the origin is
+### reset what the origin is
 ```
 git remote remove origin
 git remote add origin ssh://git@xwtcvpgit:7999/pup/puppet-appdynamics.git
@@ -37,12 +37,12 @@ git remote prune origin      # get rid of local branches that are stale
 
 git reset <file>             # undo an add
 ```
-# squashing commits on a branch
+### squashing commits on a branch
 ```git rebase -i HEAD~5                   # number is number of commits to squash```
-# interactive vi sessions to do 'reword' and 'fixup' or 'squashes'
+### interactive vi sessions to do 'reword' and 'fixup' or 'squashes'
 ```git push origin <branch-name> --force```
 
-# rebasing with master to get latest changes
+### rebasing with master to get latest changes
 ```
 git fetch
 git rebase origin/production
@@ -50,17 +50,17 @@ git push origin <branch-name> --force
 ```
 
 
-//// to revert current local area to the latest on remote...
+###  to revert current local area to the latest on remote...
 ```
 git fetch origin
 git reset --hard origin/master
 ```
-//// delete a remote branch and then delete local copy...
+### delete a remote branch and then delete local copy...
 ```
 git push origin --delete <branch name>
 git branch -D <branch name>
 ```
-//// tag a repo
+### tag a repo
 ```
 git checkout master
 git pull
@@ -68,12 +68,12 @@ git tag # lists all tags
 git tag -a -m "Some message" 0.0.0 # this is the new version number
 git push --tags
 ```
-//// move a tag
+### move a tag
 ```
 git tag --force v1.0 <ID-of-commit-127>
 git push --force --tags
 ```
-//// pretty print log information
+### pretty print log information
 ```
 git log --pretty=oneline --abbrev-commit
 git log --oneline
@@ -87,47 +87,49 @@ In your github fork, you need to keep your master branch clean, by clean I mean 
 When you do a pull request on a branch, you can continue to work on another branch and make another pull request on this other branch.
 Before creating a new branch, pull the changes from upstream. Your master needs to be up to date.
 
-Create the branch on your local machine and switch in this branch :```$ git checkout -b [name_of_your_new_branch]```
+- Create the branch on your local machine and switch in this branch :
 
-Change working branch :
+```$ git checkout -b [name_of_your_new_branch]```
+
+- Change working branch :
 ```$ git checkout [name_of_your_new_branch]```
 
-Push the branch on github :
+- Push the branch on github :
 ```$ git push origin [name_of_your_new_branch]```
 When you want to commit something in your branch, be sure to be in your branch. Add -u parameter to set upstream.
 
-Create a new branch:
+- Create a new branch:
 ```git checkout -b feature_branch_name```
 
-Edit, add and commit your files.Push your branch to the remote repository:
+- Edit, add and commit your files.Push your branch to the remote repository:
 ```git push -u origin feature_branch_name```
 
-You can see all branches created by using :
+- You can see all branches created by using :
 ```$ git branch```
-Which will show :
-```* approval_messages
+- Which will show :
+* approval_messages
   master
-  master_clean```
+  master_clean
 
-Add a new remote for your branch :
+- Add a new remote for your branch :
 ```$ git remote add [name_of_your_remote] ```
 
-Push changes from your commit into your branch :
+- Push changes from your commit into your branch :
 ```$ git push [name_of_your_new_remote] [name_of_your_branch]```
 
-Update your branch when the original branch from official repository has been updated :
+- Update your branch when the original branch from official repository has been updated :
 ```$ git fetch [name_of_your_remote]```
 
-Then you need to apply to merge changes, if your branch is derivated from develop you need to do :
+- Then you need to apply to merge changes, if your branch is derivated from develop you need to do :
 ```$ git merge [name_of_your_remote]/develop```
 
-Delete a branch on your local filesystem :
+- Delete a branch on your local filesystem :
 ```$ git branch -d [name_of_your_new_branch]```
 
-To force the deletion of local branch on your filesystem :
+- To force the deletion of local branch on your filesystem :
 ```$ git branch -D [name_of_your_new_branch]```
 
-Delete the branch on github :
+- Delete the branch on github :
 ```$ git push origin :[name_of_your_new_branch]```
 
 The only difference is the : to say delete, you can do it too by using github interface to remove branch : [deleting-unused-branches](https://help.github.com/articles/deleting-unused-branches.)
