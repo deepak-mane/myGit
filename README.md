@@ -238,8 +238,8 @@ Starting on Git v2.8.0 you can also use git push with the -d option as an alias 
 
 Therefore, the version of Git you have installed will dictate whether you need to use the easier or harder syntax.
 
- - Delete Remote Branch 
-  - Deleting Remote Branches
+ - Delete Remote Branch
+    - Deleting Remote Branches
             Suppose you’re done with a remote branch — say, you and your collaborators are finished with a feature and have merged it into your remote’s master branch (or whatever branch your stable code-line is in). You can delete a remote branch using the rather obtuse syntax git push [remotename] :[branch]. If you want to delete your server-fix branch from the server, you run the following:
 
 ```$ git push origin :serverfix```
