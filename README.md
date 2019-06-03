@@ -24,7 +24,24 @@ git status
 git status -sb
 
 git remote -v            # show remote origin info
+
 ```
+### or create a new repository on the command line
+```
+echo "# my-ang-webapp-game" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:deepak-mane/my-ang-webapp-game.git
+git push -u origin master
+```
+
+### or push an existing repository from the command line
+```
+git remote add origin git@github.com:deepak-mane/my-ang-webapp-game.git
+git push -u origin master
+```
+
 ### reset what the origin is
 ```
 git remote remove origin
