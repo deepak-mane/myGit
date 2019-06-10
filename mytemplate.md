@@ -9,6 +9,8 @@
 
 ## Packages
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 ### Mad science
 
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
