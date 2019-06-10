@@ -11,6 +11,17 @@
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
+I have started using Markdown to post some of my documents to an internal web site for in-house users. It is an easy way to have a document shared but not able to be edited by the viewer.
+
+So, this marking of text in color is “Great”. I have use several like this and works wonderful.
+
+<span style="color:blue">some *This is Blue italic.* text</span>
+Turns into This is Blue italic.
+
+And
+
+<span style="color:red">some **This is Red Bold.** text</span>
+Turns into This is Red Bold.
 ### Mad science
 
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
