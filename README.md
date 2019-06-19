@@ -3,6 +3,7 @@ Git Hub Usage,tricks Notes
 
 
 ## Bitbucket & Git
+- [git-config](https://git-scm.com/docs/git-config)
                                                           
 ### set up local repo                                                 
 ```
