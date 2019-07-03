@@ -157,3 +157,35 @@ If you’re a Windows programmer doing a Windows-only project, then you can turn
 ```
 $ git config --global core.autocrlf false
 ```
+
+## 3. error: Your local changes to the following files would be overwritten by merge:Please commit your changes or stash them before you merge.Aborting
+
+You can't merge with local modifications. Git protects you from losing potentially important changes.
+
+You have three options:
+
+1. Commit the change using
+```
+git commit -m "My message"
+```
+2. Stash it.
+Stashing acts as a stack, where you can push changes, and you pop them in reverse order.
+
+To stash, type
+```
+git stash
+```
+Do the merge, and then pull the stash:
+```
+git stash pop
+```
+3. Discard the local changes
+```
+using git reset --hard
+or git checkout -t -f remote/branch
+```
+Or: Discard local changes for a specific file
+```
+using git checkout filename
+
+```
