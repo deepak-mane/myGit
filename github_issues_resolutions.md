@@ -17,7 +17,7 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 ```
-Solution
+<b>Solution</b>
 
 If the GitHub repo has seen new commits pushed to it, while you were working locally, I would advise using:
 ```
@@ -55,7 +55,7 @@ Note: git reset --mixed origin/master can also be written git reset origin/maste
 
 
 ## 2. error: Pulling is not possible because you have unmerged files
-
+<b>Solution</b>
 What is currently happening is, that you have a certain set of files, which you have tried merging earlier, but they threw up merge conflicts. Ideally, if one gets a merge conflict, he should resolve them manually, and commit the changes using git add file.name && git commit -m "removed merge conflicts". Now, another user has updated the files in question on his repository, and has pushed his changes to the common upstream repo.
 
 It so happens, that your merge conflicts from (probably) the last commit were not not resolved, so your files are not merged all right, and hence the U(unmerged) flag for the files. So now, when you do a git pull, git is throwing up the error, because you have some version of the file, which is not correctly resolved.
@@ -124,7 +124,7 @@ repo_clone $ git add file && git commit -m "resolved merge conflicts"
 ```
 
 ## 2. error: LF will be replaced by CRLF in git - What is that and is it important?
-
+<b>Solution</b>
 In Unix systems the end of a line is represented with a line feed (LF). In windows a line is represented with a carriage return (CR) and a line feed (LF) thus (CRLF). when you get code from git that was uploaded from a unix system they will only have an LF.
 
 If you want to turn this warning off, type this in the git command line
@@ -159,7 +159,7 @@ $ git config --global core.autocrlf false
 ```
 
 ## 3. error: Your local changes to the following files would be overwritten by merge:Please commit your changes or stash them before you merge.Aborting
-
+<b>Solution</b>
 You can't merge with local modifications. Git protects you from losing potentially important changes.
 
 You have three options:
@@ -183,6 +183,20 @@ git stash pop
 ```
 using git reset --hard
 or git checkout -t -f remote/branch
+
+example:
+$> git reset --hard
+HEAD is now at 9655749 188. TD:Adding Validation to check User Input
+
+<Deepaks-iMac:deepakmane> /Users/deepakmane/git/my-ang-forms-td-start [Wed Jul 03 04:36:35]
+$> git pull
+Updating 9655749..c0c9868
+Fast-forward
+ src/app/app.component.css  |  4 ++++
+ src/app/app.component.html | 40 +++++++++++++++++++++++++++++++++++-----
+ src/app/app.component.ts   | 19 +++++++++++++++++++
+ 3 files changed, 58 insertions(+), 5 deletions(-)
+
 ```
 Or: Discard local changes for a specific file
 ```
