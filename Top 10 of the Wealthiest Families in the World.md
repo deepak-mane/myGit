@@ -1,7 +1,7 @@
 # Top 10 of the Wealthiest Families in the World
 
 - TABLE OF CONTENTS
-  0. Family Money
+  12. Family Money
   1. Walton Family - Walmart
   2. Koch Brothers - Koch Industries
   3. Mars Family - Mars
