@@ -8,6 +8,18 @@ Links:-
 - https://dev.to/ryanmiller/what-takes-to-create-a-cloud-based-saas-application--11id
 - https://dedicateddevelopers.com/blog/learn-about-the-time-and-cost-of-making-an-saas-product/
 - https://themindstudios.com/blog/saas-application-development/
+- https://www.devteam.space/blog/6-best-saas-analytics-tools-for-2019/
+
+
+    1. Find a Business Problem
+    1. Collect Feedback
+    1. Design Solution
+    1. Make a MVP
+    1. Monitor And Update It
+    1. Lauch Full Scale Product
+    1. Make a User Base, Revenue Model
+    1. Go for Seeder Funding
+
 
 
 
