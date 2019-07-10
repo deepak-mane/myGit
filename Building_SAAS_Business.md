@@ -1,12 +1,12 @@
 # Building SAAS Business 
     1. Find a Business Problem
-    1. Collect Feedback
-    1. Design Solution
-    1. Make a MVP
-    1. Monitor And Update It
-    1. Lauch Full Scale Product
-    1. Make a User Base, Revenue Model
-    1. Go for Seeder Funding
+    2. Collect Feedback
+    3. Design Solution
+    4. Make a MVP
+    5. Monitor And Update It
+    6. Lauch Full Scale Product
+    7. Make a User Base, Revenue Model
+    8. Go for Seeder Funding
     
 Links:-
 - https://neilpatel.com/blog/built-and-launched-a-saas-company/
