@@ -1,5 +1,13 @@
 # Building SAAS Business 
-
+    1. Find a Business Problem
+    1. Collect Feedback
+    1. Design Solution
+    1. Make a MVP
+    1. Monitor And Update It
+    1. Lauch Full Scale Product
+    1. Make a User Base, Revenue Model
+    1. Go for Seeder Funding
+    
 Links:-
 - https://neilpatel.com/blog/built-and-launched-a-saas-company/
 - https://www.devteam.space/blog/how-to-start-building-your-own-saas-platform/
@@ -25,14 +33,7 @@ UX designer
 Developement Teams
 
 
-    1. Find a Business Problem
-    1. Collect Feedback
-    1. Design Solution
-    1. Make a MVP
-    1. Monitor And Update It
-    1. Lauch Full Scale Product
-    1. Make a User Base, Revenue Model
-    1. Go for Seeder Funding
+
 
 
 SSO
