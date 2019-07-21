@@ -595,3 +595,21 @@ Turns into This is Red Bold.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+
+You cannot color plain text in a GitHub README.md file. You can however add color to code samples with the tags below.
+
+To do this just add tags such as these samples to your README.md file:
+
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+// etc.
