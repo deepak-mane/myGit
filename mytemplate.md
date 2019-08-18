@@ -2,6 +2,19 @@
 
 ## Contents
 
+
+Try this markdown:
+```
+![alt text](http://url/to/img.png)
+I think you can link directly to the raw version of an image if it's stored in 
+your repository. i.e.
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+Edit: just noticed comment linking to article which suggests using gh-pages. Also, relative 
+links can be a better idea than the absolute URLs I posted above.
+
+```
+
 - [Packages](#packages)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
