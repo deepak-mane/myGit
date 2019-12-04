@@ -20,7 +20,7 @@
 1. ) Introduction to Finance, Accounting, Modeling and Valuation
 Chris Haroun, Award Winning MBA Professor, Venture Capitalist and Author.
 2. ) Value Investing: The Advanced Financial Statement Analysis
-Wealthy Education, Millionaire Investor | Investing Strategies That Work!
+Wealthy Education, Millionaire Investor
 3. ) The Complete Financial Analyst Course
 365 Careers -Creating opportunities for Business & Finance students
 4. ) Cash Flow Valuation or DCF: Develop Your Financial Literacy
@@ -28,17 +28,17 @@ Md Mohan Uddin, PhD, Professor of Finance
 5. ) Franchise Valuation Secrets - A Beginner's Guide
 Chris Forbes, Small business and franchise transaction educator
 6. ) Introduction to Corporate Finance (Mergers & Acquisitions. ) 
-Tim Vipond, CEO at Corporate Finance Institute | 100,000+ students
+Tim Vipond, CEO at Corporate Finance Institute
 7. ) The Complete Value Investing Course (Updated 2019. ) 
-Wealthy Education, Millionaire Investor | Investing Strategies That Work!
+Wealthy Education, Millionaire Investor 
 8. ) The Advanced Value Investing Course (Updated 2019. ) 
-Wealthy Education, Millionaire Investor | Investing Strategies That Work!
+Wealthy Education, Millionaire Investor 
 9. ) Selecting the Correct Franchise
 Frank Caperino, Selecting the Correct Franchise from Over 3,500 Names!!
 10. ) FREE franchise your business '5 day' mini course
 Joe Hesmondhalgh, The Unreal Franchise Coach
 11. ) Mergers & Acquisitions - M&A, Valuation & Selling a Company
-John Colley, Copywriting | Webinars | Investment Banking | Online Courses
+John Colley, Copywriting| Investment Banking
 
 ### myStocks
 1. ) Interpreting financial statements
@@ -65,15 +65,15 @@ Kasun Liyanage, Software engineer & founder of intellect, co founder at cpphive
 2. ) Beginning Modern C++ (C++11/C++14. ) 
 Umar Lone, Trainer, developer & founder at Poash Technologies
 3. ) Design Patterns in Modern C++
-Dmitri Nesteruk, Quant Finance • Algotrading • Software/Hardware Engineering
+Dmitri Nesteruk
 4. ) Beginning C++ Programming - From Beginner to Beyond
-Tim Buchalka's Learn Programming Academy, Professional Programmers and Teachers - 600K+ students
+Tim Buchalka's Learn Programming Academy
 5. ) Learn C++ Programming -Beginner to Advance- Deep Dive in C++ (*****. ) 
 Abdul Bari, Professional Programmer and Educator
 6. ) C++ Exception Handling with Examples (Basic to Advanced. ) 
 Anuj Kumar, Programmer
 7. ) Learn Socket Programming in C from Scratch
-Eduonix Learning Solutions, 1+ Million Students Worldwide | 200+ Courses
+Eduonix Learning Solutions
 8. ) Advanced C++ Programming Training Course
 Infinite Skills, High Quality Training
 9. ) Linux System Programming using c and c++
@@ -113,9 +113,8 @@ Al Sweigart, Software developer, tech book author
 6. ) Python and Django Full Stack Web Developer Bootcamp
 Jose Portilla, Head of Data Science, Pierian Data Inc.
 7. ) Learn Python Programming Masterclass (*****. ) 
-Tim Buchalka, Java Python Android and C# Expert Developer - 537K+ students
+Tim Buchalka, Java Python  Developer
 8. ) The Python Bible™ | Everything You Need to Program in Python
-The Python Bible™ | Everything You Need to Program in Python
 Ziyad Yehia, Energetic Udemy Instructor with a Project-based Approach
 9. ) Complete Python Bootcamp: Go from zero to hero in Python 3 (*****. ) 
 Jose Portilla, Head of Data Science, Pierian Data Inc.
@@ -131,9 +130,9 @@ Bobby Malik, Enterprise Cloud Architect
 4. ) The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert
 Colt Steele, Developer and Bootcamp Instructor
 5. ) Windows Server 2012 System Administration: Get an IT Job!
-Paul Hill, Expert IT Instructor: 129k Students, 16k Reviews, 17 Courses
+Paul Hill, Expert IT Instructor
 6. ) Practical PHP: Master the Basics and Code Dynamic Websites
-Brad Hussey, Marketing Consultant at FreelancingFreedom.com
+Brad Hussey, Marketing Consultant
 7. ) Complete Apache HTTP Server Course
 Muhammed Torkey, Cloud Consultant
 8. ) Kali Linux Tutorial For Beginners
