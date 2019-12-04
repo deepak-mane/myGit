@@ -5,7 +5,7 @@
 ```
 Mysql. The server requested authentication method unknown to the client [caching_sha2_password] #1390
 ```
-<b>Solution:<\b>
+<b>Solution<\b>
 1. From bin directory in MySQLServer run 
 ```mysqld --init-file=E:\\INSTALL\\MySQLinstall\\mysql-init.txt --datadir=D:\\APP\\MySQL\\MySQLServerData\\Data```
 2. Open MySQL 8.0 Command Line Client
