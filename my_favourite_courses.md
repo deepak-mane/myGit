@@ -17,7 +17,8 @@
 
 
 ### 03MyInvestingKit
-1. ) Introduction to Finance, Accounting, Modeling and Valuation
+1. ) Introduction to Financial Modeling for Beginners
+1. ) Introduction to Finance, Accounting, Modeling and Valuation [ 58 lectures 06:13:29 ]
 Chris Haroun, Award Winning MBA Professor, Venture Capitalist and Author.
 2. ) Value Investing: The Advanced Financial Statement Analysis
 Wealthy Education, Millionaire Investor
@@ -47,16 +48,15 @@ Gabriel Dragne, Associate Chartered Banker|Consultant|Financial Reporting
 BrainyMoney and Son Han, CFA, CPA, Personal Finance Made Easy!
 
 ### RealEstateInvestments
-1. ) Introduction to Financial Modeling for Beginners
-2. ) Fundamentals of Analyzing Real Estate Investments
-3. ) How to Analyze Multifamily Investment Opportunities
-4. ) Pre-Investing: Essential Real Estate Investing Concepts
-5. ) How to Analyze a Wholesale Deal in Real Estate
-6. ) Intro to Analyzing Rental Income Properties
+1. ) Fundamentals of Analyzing Real Estate Investments [146 lectures 18:19:06]
+2. ) How to Analyze Multifamily Investment Opportunities [83 lectures 09:53:36]
+3. ) Pre-Investing: Essential Real Estate Investing Concepts [54 lectures 06:19:17]
+4. ) How to Analyze a Wholesale Deal in Real Estate [21 lectures 01:35:10 ]
+5. ) Intro to Analyzing Rental Income Properties [66 lectures 06:22:02]
 Symon He, Stanford MBA | Real Estate | Financial & Data Analysis
-1. ) The Complete Guide To Analyzing Single Family Rental Houses
-2. ) The Real Estate Financial Modeling Bootcamp
-3. ) The Complete Guide To Multifamily Real Estate Investing
+6. ) The Complete Guide To Analyzing Single Family Rental Houses [93 lectures 04:45:23]
+7. ) The Real Estate Financial Modeling Bootcamp [120 lectures 07:05:22]
+8. ) The Complete Guide To Multifamily Real Estate Investing [83 lectures 04:25:23]
 Justin Kivel, Real Estate Investing & Financial Modeling
 
 ### c++Advanced
