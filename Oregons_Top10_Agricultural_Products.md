@@ -4,7 +4,7 @@
 The USDA’s value of production equals cash receipts (crops or livestock sold in a calendar year) plus the value of inventory adjustment and home consumption.
 
 1. Greenhouse & Nursery
-   - Production Value: $947.7M 
+   - <b>Production Value: $947.7M </b>
    - Greenhouse and nursery products are big business in Oregon, ranking No. 1 in the nation for potted florist azaleas. 
    - Oregon is one of the top three nursery production states in the U.S.
    - FARM FACT: Ornamental plants and shrubs, shade trees, perennials, and more are part of the nursery industry.
