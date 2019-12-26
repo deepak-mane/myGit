@@ -3,53 +3,53 @@
 - [Dividend-Stocks](https://www.dividend.com/dividend-stocks/consumer-goods/cigarettes/vgr-vector-group/)
 
 ### Do own research of these and start buying at ONLY Dips:
-1. Financials : 9%
+1. <b>Financials : 9% </b>
    1. (Banks)US Bancorp/U.S. Bank - USB
    1. (Banks)JPMorgan-Chase - JPM
    1. (Banks)Bank of America - BAC
    1. (Capital Markets) Arlington Asset Investment Corp
 
-1. Information Technology : 9%
+1. <b>Information Technology : 9%</b>
    1. (Software) Microsoft - MSFT
    1. (Technology Hardware, Storage & Peripherals) Apple - AAPL
    1. (Semiconductors & Semiconductor Equipment) Intel - INTC
    1. (Communications Equipment) - Cisco Systems Inc - CSCO
 
-1. Consumer Staples : 9%
+1. <b>Consumer Staples : 9%</b>
    1. (Food & Staples Retailing) - Costco Wholesale Corp - COST
    1. (Beverages) CocaCola - KO
    1. (Food Prodcuts) - Kraft Heinz - KHC
    1. (Tobacco) British American Tobacco - BTI  
    1. (Tobacco) Vector Group - VGR  
 
-1. Health Care : 9%
+1. <b>Health Care : 9%</b>
    1. (Biotechnology) Abbvie Inc - ABBV 
    1. (Pharmaceuticals) Johnson & Johnson - JNJ
    1. (Pharmaceuticals) Pfizer Inc - PFE
   
-1. Communication Services :  9%
+1. <b>Communication Services : 9%</b>
    1. (Diversified Telecommunication Services) AT&T - T
   
-1. Consumer Discretionary : 9%
+1. <b>Consumer Discretionary : 9%</b>
    1. (Specialty Retail) Lowe's - LOW
    1. (Automobiles) General Motors - GM
   
-1. Utilities : 9%
+1. <b>Utilities : 9%</b>
    1. Fortis - FTS
   
-1. Oil & Gas / Energy : 9%
+1. <b>Oil & Gas / Energy : 9%</b>
    1. Canadian Natural Resource - CNQ
    1. Occidental Petroleum - OXY
   
-1. Industrial : 9%
+1. <b>Industrial : 9%</b>
    1. (Commercial Services & Supplies) Waste Management  - WM
    1. (Industrial Conglomerates) General Electric - GE
    1. (Air Freight & Logistics) - UPS
   
-1. Materials : 9%
+1. <b>Materials : 9%</b>
    1. (Chemicals) Ecolab Inc - ECL
 
-1. Real Estate : 9%
+1. <b>Real Estate : 9%</b>
    1. STORE Capital - STOR
 
 
