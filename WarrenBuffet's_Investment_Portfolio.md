@@ -33,7 +33,8 @@
    1. [5.0%] (Automobiles) General Motors - GM 
   
 1. <b>Oil & Gas / Energy : 10%</b>
-   1. [5.0%] Canadian Natural Resource - CNQ  
+   1. [2.0%] Exxon Mobil Corp - XOM
+   1. [3.0%] Canadian Natural Resource - CNQ  
    1. [5.0%] Occidental Petroleum - OXY  
   
 1. <b>Industrial : 10%</b>
