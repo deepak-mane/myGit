@@ -38,9 +38,10 @@
    1. [5.0%] Occidental Petroleum - OXY  
   
 1. <b>Industrial : 10%</b>
-   1. [4.0%] (Air Freight & Logistics) - UPS 
-   1. [3.0%] (Commercial Services & Supplies) Waste Management  - WM 
-   1. [3.0%] (Industrial Conglomerates) General Electric - GE 
+   1. [2.5%] (Air Freight & Logistics) - UPS 
+   1. [2.5%] (Commercial Services & Supplies) Waste Management  - WM 
+   1. [2.5%] (Industrial Conglomerates) General Electric - GE 
+   1. [2.5%] (Electrical Equipment) Emerson Electric Co - EMR
  
 1. <b>Materials : 10%</b>
    1. [10.0%] (Chemicals) Ecolab Inc - ECL 
