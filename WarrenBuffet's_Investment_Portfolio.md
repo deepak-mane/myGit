@@ -17,11 +17,12 @@
    1. [2.5%] (Communications Equipment) - Cisco Systems Inc - CSCO 
 
 1. <b>Consumer Staples : 10%</b>
-   1. [2.5%] (Food & Staples Retailing) - Costco Wholesale Corp - COST 
-   1. [2.5%] (Beverages) CocaCola - KO 
-   1. [2.5%] (Food Prodcuts) - Kraft Heinz - KHC 
-   1. [2.5%] (Tobacco) British American Tobacco - BTI
-   1. [2.5%] (Tobacco) Vector Group - VGR   
+   1. [2.0%] (Household Products) Colgate-Palmolive Co - CL
+   1. [2.0%] (Food & Staples Retailing) Costco Wholesale Corp - COST 
+   1. [2.0%] (Beverages) CocaCola - KO 
+   1. [2.0%] (Food Prodcuts) - Kraft Heinz - KHC 
+   1. [2.0%] (Tobacco) British American Tobacco - BTI
+   1. [2.0%] (Tobacco) Vector Group - VGR   
 
 1. <b>Health Care : 10%</b>
    1. [4.0%] (Biotechnology) Abbvie Inc - ABBV  
