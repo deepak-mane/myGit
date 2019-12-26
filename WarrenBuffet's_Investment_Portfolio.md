@@ -80,6 +80,7 @@ of transportation stocks. But that changed in 2016, with Buffett gobbling up sta
 1. United Airlines Group
 1. American Airlines Group
 1. UPS
+
 On one hand, I understand Buffett's desire to buy into airlines in late 2016. The price of crude oil plunged, 
 and since jet fuel is the single greatest cost to airlines, this decline suddenly made them all very profitable. 
 On the other hand, it's an industry that requires a lot of capital to make very little money. Airlines also have 
@@ -100,6 +101,7 @@ owns the following nine:
 1. Liberty Sirius XM Group Class A
 1. Liberty Latin America Class A
 1. Liberty Latin America Class C
+
 This certainly isn't the most exciting group of communications companies by any means. Perhaps most interesting is 
 what's missing: Walt Disney. Buffett has owned a stake in Disney on two separate occasions throughout his life 
 and sold very shortly after coming into possession of his investments. Both early sales have cost the Oracle of 
@@ -116,6 +118,7 @@ quarters outside this range. Berkshire Hathaway currently owns four consumer dis
 1. Amazon.com (NASDAQ:AMZN)
 1. Restaurant Brands International
 1. RH
+
 Despite representing just a little over 2% of invested assets, this has been an area of interest in 2019. Earlier this 
 year we witnessed Amazon get added to the portfolio, as well as had RH (the company formerly known as 
 Restoration Hardware) added during the third quarter.
@@ -134,6 +137,7 @@ three healthcare stocks:
 1. DaVita
 1. Teva Pharmaceutical Industries (NYSE:TEVA)
 1. Johnson & Johnson
+
 With Buffett mostly selling out of his J&J position years ago, it's mostly an afterthought here. The real surprise was 
 the Teva Pharmaceutical purchase in the fourth quarter of 2017. Teva has been dealing with all sorts of issues, ranging 
 from bribery settlements and opioid lawsuits to generic competition for its top-selling branded drug, Copaxone. 
@@ -148,6 +152,7 @@ Currently, Buffett owns stakes in three that make up just a fraction of Berkshir
 1. Phillips 66
 1. Suncor Energy
 1. Occidental Petroleum
+
 Although oil is a key cog that keeps the U.S. and global economy strong, Buffett has often chosen to invest 
 in industries or sectors that benefit from higher or lower oil prices, rather than investing directly in 
 oil players themselves. This is why, collectively, this trio only makes up around 0.6% of invested assets.
