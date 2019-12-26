@@ -3,55 +3,55 @@
 - [Dividend-Stocks](https://www.dividend.com/dividend-stocks/consumer-goods/cigarettes/vgr-vector-group/)
 
 ### Do own research of these and start buying at ONLY Dips:
-1. <b>Financials : 9% </b>
-   1. (Banks)US Bancorp/U.S. Bank - USB
-   1. (Banks)JPMorgan-Chase - JPM
-   1. (Banks)Bank of America - BAC
-   1. (Capital Markets) Arlington Asset Investment Corp
+1. <b>Financials : 10% </b>
+   1. (Banks)US Bancorp/U.S. Bank - USB [2.0%]
+   1. (Banks)JPMorgan-Chase - JPM [2.0%]
+   1. (Banks)Bank of America - BAC [2.0%]
+   1. (Capital Markets) Bank of New York Mellon Corp - BK [2.0%]
+   1. (Capital Markets) Arlington Asset Investment Corp [2.0%]
+   
+1. <b>Information Technology : 10%</b>
+   1. (Software) Microsoft - MSFT [2.5%]
+   1. (Technology Hardware, Storage & Peripherals) Apple - AAPL [2.5%]
+   1. (Semiconductors & Semiconductor Equipment) Intel - INTC [2.5%]
+   1. (Communications Equipment) - Cisco Systems Inc - CSCO [2.5%]
 
-1. <b>Information Technology : 9%</b>
-   1. (Software) Microsoft - MSFT
-   1. (Technology Hardware, Storage & Peripherals) Apple - AAPL
-   1. (Semiconductors & Semiconductor Equipment) Intel - INTC
-   1. (Communications Equipment) - Cisco Systems Inc - CSCO
+1. <b>Consumer Staples : 10%</b>
+   1. (Food & Staples Retailing) - Costco Wholesale Corp - COST [2.5%]
+   1. (Beverages) CocaCola - KO [2.5%]
+   1. (Food Prodcuts) - Kraft Heinz - KHC [2.5%]
+   1. (Tobacco) British American Tobacco - BTI [2.5%]  
+   1. (Tobacco) Vector Group - VGR [2.5%]  
 
-1. <b>Consumer Staples : 9%</b>
-   1. (Food & Staples Retailing) - Costco Wholesale Corp - COST
-   1. (Beverages) CocaCola - KO
-   1. (Food Prodcuts) - Kraft Heinz - KHC
-   1. (Tobacco) British American Tobacco - BTI  
-   1. (Tobacco) Vector Group - VGR  
+1. <b>Health Care : 10%</b>
+   1. (Biotechnology) Abbvie Inc - ABBV [4.0%] 
+   1. (Pharmaceuticals) Johnson & Johnson - JNJ [3.0%] 
+   1. (Pharmaceuticals) Pfizer Inc - PFE [3.0%] 
+    
+1. <b>Consumer Discretionary : 10%</b>
+   1. (Specialty Retail) Lowe's - LOW [5.0%] 
+   1. (Automobiles) General Motors - GM [5.0%] 
+  
+1. <b>Oil & Gas / Energy : 10%</b>
+   1. Canadian Natural Resource - CNQ [5.0%] 
+   1. Occidental Petroleum - OXY [5.0%] 
+  
+1. <b>Industrial : 10%</b>
+   1. (Commercial Services & Supplies) Waste Management  - WM [3.0%]
+   1. (Industrial Conglomerates) General Electric - GE [3.0%]
+   1. (Air Freight & Logistics) - UPS [4.0%] 
+  
+1. <b>Materials : 10%</b>
+   1. (Chemicals) Ecolab Inc - ECL [10.0%]
 
-1. <b>Health Care : 9%</b>
-   1. (Biotechnology) Abbvie Inc - ABBV 
-   1. (Pharmaceuticals) Johnson & Johnson - JNJ
-   1. (Pharmaceuticals) Pfizer Inc - PFE
-  
-1. <b>Communication Services : 9%</b>
-   1. (Diversified Telecommunication Services) AT&T - T
-  
-1. <b>Consumer Discretionary : 9%</b>
-   1. (Specialty Retail) Lowe's - LOW
-   1. (Automobiles) General Motors - GM
-  
-1. <b>Utilities : 9%</b>
-   1. Fortis - FTS
-  
-1. <b>Oil & Gas / Energy : 9%</b>
-   1. Canadian Natural Resource - CNQ
-   1. Occidental Petroleum - OXY
-  
-1. <b>Industrial : 9%</b>
-   1. (Commercial Services & Supplies) Waste Management  - WM
-   1. (Industrial Conglomerates) General Electric - GE
-   1. (Air Freight & Logistics) - UPS
-  
-1. <b>Materials : 9%</b>
-   1. (Chemicals) Ecolab Inc - ECL
-
-1. <b>Real Estate : 9%</b>
-   1. STORE Capital - STOR
-
+1. <b>Real Estate : 10%</b>
+   1. STORE Capital - STOR [10.0%]
+   
+1. <b>Communication Services : 5%</b>
+   1. (Diversified Telecommunication Services) AT&T - T [5.0%]
+   
+1. <b>Utilities : 5%</b>
+   1. (Electric Utilities) Fortis - FTS [5.0%]
 
 | Sector |Portfolio Percent | Ticker |
 |---|---|---|
