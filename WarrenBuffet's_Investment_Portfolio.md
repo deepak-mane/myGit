@@ -29,8 +29,9 @@
    1. [3.0%] (Pharmaceuticals) Pfizer Inc - PFE  
     
 1. <b>Consumer Discretionary : 10%</b>
-   1. [5.0%] (Specialty Retail) Lowe's - LOW  
-   1. [5.0%] (Automobiles) General Motors - GM 
+   1. [4.0%] (Household Durables) Leggett & Platt Inc - LEG
+   1. [3.0%] (Specialty Retail) Lowe's - LOW  
+   1. [3.0%] (Automobiles) General Motors - GM 
   
 1. <b>Oil & Gas / Energy : 10%</b>
    1. [2.0%] Exxon Mobil Corp - XOM
