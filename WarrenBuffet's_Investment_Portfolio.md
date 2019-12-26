@@ -15,18 +15,19 @@
 |<b>Total<b>|<b>99.97%</b>||
 
 
-| | | |
-|---|---|---|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|Sector |% Weightage | Outof 18000 ||
+|---|---|---|---|
+|Financials|50%|9,000|BAC|
+|Information Technology|25%|4,500||
+|Consumer staples|15%|2,700||
+|Transports|4%	|720||
+|Communications|4% |720||
+|Consumer discretionary|2%|310||
+|Healthcare|1%	|180||
+|Energy|0.5%	|90||
+|Materials|0.3%	|30||
+|Real estate|0.3%|30||
+|<b>Total<b>|<b>99.97%</b>|||
 
 ## Financials: 46.04% of portfolio
 There should be no surprise here that financials, which includes everything from money center banks 
