@@ -12,8 +12,7 @@
 |Energy|0.56%	|Phillips 66|
 |Materials|0.34%	|Axalta Coating Systems|
 |Real estate|0.32%|STORE Capital|
-
-|Total|99.97%||
+|<b>Total<b>|<b>99.97%</b>||
 
 
 ## Financials: 46.04% of portfolio
