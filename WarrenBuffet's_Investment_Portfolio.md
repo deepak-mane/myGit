@@ -22,11 +22,11 @@
 |Consumer staples|15%|2,700|<b>COST</b>|
 |Transports|4%	|720|<b>UPS</b>|
 |Communications|4% |720|<b>T</b>|
-|Consumer discretionary|2%|<b>MCD/LEG</b>|
+|Consumer discretionary|2%|310|<b>MCDLEG</b>|
 |Healthcare|1%	|180|<b>PFE</b>|
-|Energy|0.5%	|90|OXY|
-|Materials|0.3%	|30||
-|Real estate|0.3%|30|STOR|
+|Energy|0.5%	|90|<b>OXY</b>|
+|Materials|0.3%	|30|<b>Material</b>|
+|Real estate|0.3%|30|<b>STOR</b>|
 |<b>Total<b>|<b>99.97%</b>|||
 
 ## Financials: 46.04% of portfolio
