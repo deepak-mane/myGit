@@ -1,5 +1,7 @@
 # Warren Buffet's Portfolio 11/25/2019
 
+- [Dividend-Stocks](https://www.dividend.com/dividend-stocks/consumer-goods/cigarettes/vgr-vector-group/)
+
 | Sector |Portfolio Percent | Ticker |
 |---|---|---|
 |Financials|46.04%|BAC|
