@@ -10,11 +10,11 @@
    1. [2.0%] (Capital Markets) Bank of New York Mellon Corp - BK
    1. [2.0%] (Capital Markets) Arlington Asset Investment Corp 
    
-1. <b>Information Technology : 10%</b>
-   1. [2.5%] (Software) Microsoft - MSFT 
-   1. [2.5%] (Technology Hardware, Storage & Peripherals) Apple - AAPL 
-   1. [2.5%] (Semiconductors & Semiconductor Equipment) Intel - INTC 
-   1. [2.5%] (Communications Equipment) - Cisco Systems Inc - CSCO 
+1. <b>Information Technology : 8%</b>
+   1. [2.0%] (Software) Microsoft - MSFT 
+   1. [2.0%] (Technology Hardware, Storage & Peripherals) Apple - AAPL 
+   1. [2.0%] (Semiconductors & Semiconductor Equipment) Intel - INTC 
+   1. [2.0%] (Communications Equipment) - Cisco Systems Inc - CSCO 
 
 1. <b>Consumer Staples : 12%</b>
    1. [2.0%] (Household Products) Colgate-Palmolive Co - CL
@@ -29,14 +29,15 @@
    1. [3.0%] (Pharmaceuticals) Johnson & Johnson - JNJ
    1. [3.0%] (Pharmaceuticals) Pfizer Inc - PFE  
     
-1. <b>Consumer Discretionary : 9%</b>
-   1. [3.0%] (Household Durables) Leggett & Platt Inc - LEG
-   1. [3.0%] (Specialty Retail) Lowe's - LOW  
-   1. [3.0%] (Automobiles) General Motors - GM 
+1. <b>Consumer Discretionary : 10%</b>
+   1. [2.5%] (Household Durables) Leggett & Platt Inc - LEG
+   1. [2.5%] (Specialty Retail) Lowe's - LOW  
+   1. [2.5%] (Automobiles) General Motors - GM 
+   1. [2.5%] (Hotels, Restaurants & Leisure) McDonald's Corp - MCD
   
-1. <b>Oil & Gas / Energy : 9%</b>
+1. <b>Oil & Gas / Energy : 10%</b>
    1. [2.0%] Exxon Mobil Corp - XOM
-   1. [2.0%] Canadian Natural Resource - CNQ  
+   1. [3.0%] Canadian Natural Resource - CNQ  
    1. [5.0%] Occidental Petroleum - OXY  
   
 1. <b>Industrial : 10%</b>
