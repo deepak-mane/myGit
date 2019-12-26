@@ -15,6 +15,19 @@
 |<b>Total<b>|<b>99.97%</b>||
 
 
+| | | |
+|---|---|---|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
 ## Financials: 46.04% of portfolio
 There should be no surprise here that financials, which includes everything from money center banks 
 to insurance companies, are Buffett's favorite investment. At approximately 46% of Berkshire's 
