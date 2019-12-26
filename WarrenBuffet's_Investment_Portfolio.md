@@ -214,6 +214,6 @@ Buffett first took a position in the company a little over two years ago.
 |Carlisle Companies	|CSL	|Rubber and Plastics|	1.3%|	43|
 |H.B. Fuller Company	|FUL	|Chemical-Specialty Centers|	1.5%|	50|
 |Becton Dickinson & Co.	|BDX	|Medical Instruments|	1.2%	|47|
-|Nordson Corp.	|NDSN	Machinery	|1.1%|	56|
-|S&P Global Inc.	|SPGI	Publishing	|0.9%|	46|
+|Nordson Corp.	|NDSN	|Machinery	|1.1%|	56|
+|S&P Global Inc.	|SPGI|	Publishing	|0.9%|	46|
 |Sherwin-Williams Co.	|SHW	|Paints|	0.9%|	41|
