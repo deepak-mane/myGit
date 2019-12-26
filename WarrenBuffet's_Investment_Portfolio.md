@@ -17,16 +17,16 @@
 
 |Sector |% Weightage | Outof 18000 ||
 |---|---|---|---|
-|Financials|50%|9,000|BAC|
-|Information Technology|25%|4,500||
-|Consumer staples|15%|2,700||
-|Transports|4%	|720||
-|Communications|4% |720||
-|Consumer discretionary|2%|310||
-|Healthcare|1%	|180||
-|Energy|0.5%	|90||
+|Financials|50%|9,000|<b>BAC</b>|
+|Information Technology|25%|4,500|<b>INTC</b>|
+|Consumer staples|15%|2,700|<b>COST</b>|
+|Transports|4%	|720|<b>UPS</b>|
+|Communications|4% |720|<b>T</b>|
+|Consumer discretionary|2%|<b>MCD/LEG</b>|
+|Healthcare|1%	|180|<b>PFE</b>|
+|Energy|0.5%	|90|OXY|
 |Materials|0.3%	|30||
-|Real estate|0.3%|30||
+|Real estate|0.3%|30|STOR|
 |<b>Total<b>|<b>99.97%</b>|||
 
 ## Financials: 46.04% of portfolio
@@ -181,4 +181,39 @@ Finally, there's real estate, which also consists of just one company in Buffett
 STORE is a net-lease real estate investment trust that owns more than 2,400 properties across the United States. 
 Buffett first took a position in the company a little over two years ago.
 
-
+## Best Dividend Stock List
+|Company Name	|Ticker	|Industry	|Yield	|Years of Dividend Increases|
+| --- |--- |--- |--- |--- |
+|Universal Corp.|UVV	|Tobacco	|5.8%	|48|
+|Helmerich & Payne Inc.	|HP	|Oil&Gas	|7.1%	|46|
+|Leggett & Platt Inc.	|LEG	|Furniture/Bldg. Prod.	|4.1%	|48|
+|Kimberly-Clark Corp.	|KMB	|Personal Products|	2.9%	|47|
+|Procter & Gamble Co.	|PG	|Consumer Products	|2.5%	|63|
+|Coca-Cola Company	|KO	|Beverages-Non-alcoholic|	2.9%|	57|
+|PepsiCo Inc.	|PEP	|Beverages/Snack Food	|2.9%	|47|
+|Federal Realty Inv. Trust	|FRT	|REIT-Shopping Centers	|3.2%|	51|
+|Genuine Parts Co.	|GPC|	Auto Parts|	3.4%	|63|
+|Target Corp.	|TGT	|Retail-Discount	|2.5%	|52|
+|Illinois Tool Works	|ITW	|Machinery|	2.8%|	45|
+|McDonald’s Corp.	|MCD|	Restaurants|	2.1%	|44|
+|Emerson Electric	|EMR|	Industrial Equipment|	3.4%|	62
+|3M Company	|MMM	|Conglomerate	|3.6%	|61|
+|Colgate-Palmolive Co.	|CL|	Personal Products|2.4%	|56|
+|Archer Daniels Midland	|ADM	|Agriculture	|3.7%	|44|
+|Dover Corp.	|DOV	|Machinery	|2.1%	|64|
+|Wal-Mart Stores Inc.	|WMT|	Retail-Discount|	1.9%	|46|
+|Sysco Corp.	|SYY	|Food-Wholesale	|2.1%	|49|
+|Stanley Black & Decker	|SWK|	Tools/Security Products|	2.0%	|52|
+|PPG Industries Inc.	|PPG	|Conglomerate	|1.9%	|48|
+|Telephone & Data Sys.	|TDS	|Telecommunications|	2.7%	|45|
+|Automatic Data Proc.	|ADP|	Business Services|	1.9%|	44|
+|Parker-Hannifin Corp.	|PH	|Industrial Equipment|	2.1%|	63|
+|Lowe’s Companies	|LOW	|Retail-Home Improv.	|2.1%	|57|
+|W.W. Grainger Inc.	|GWW	|Electronics-Wholesale|	2.1%	|48|
+|Commerce Bancshares	|CBSH	|Banking|	1.8%|	51|
+|Carlisle Companies	|CSL	|Rubber and Plastics|	1.3%|	43|
+|H.B. Fuller Company	|FUL	|Chemical-Specialty Centers|	1.5%|	50|
+|Becton Dickinson & Co.	|BDX	|Medical Instruments|	1.2%	|47|
+|Nordson Corp.	|NDSN	Machinery	|1.1%|	56|
+|S&P Global Inc.	|SPGI	Publishing	|0.9%|	46|
+|Sherwin-Williams Co.	|SHW	|Paints|	0.9%|	41|
