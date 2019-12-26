@@ -16,7 +16,7 @@
    1. [2.5%] (Semiconductors & Semiconductor Equipment) Intel - INTC 
    1. [2.5%] (Communications Equipment) - Cisco Systems Inc - CSCO 
 
-1. <b>Consumer Staples : 10%</b>
+1. <b>Consumer Staples : 12%</b>
    1. [2.0%] (Household Products) Colgate-Palmolive Co - CL
    1. [2.0%] (Food & Staples Retailing) Costco Wholesale Corp - COST 
    1. [2.0%] (Beverages) CocaCola - KO 
@@ -29,14 +29,14 @@
    1. [3.0%] (Pharmaceuticals) Johnson & Johnson - JNJ
    1. [3.0%] (Pharmaceuticals) Pfizer Inc - PFE  
     
-1. <b>Consumer Discretionary : 10%</b>
-   1. [4.0%] (Household Durables) Leggett & Platt Inc - LEG
+1. <b>Consumer Discretionary : 9%</b>
+   1. [3.0%] (Household Durables) Leggett & Platt Inc - LEG
    1. [3.0%] (Specialty Retail) Lowe's - LOW  
    1. [3.0%] (Automobiles) General Motors - GM 
   
-1. <b>Oil & Gas / Energy : 10%</b>
+1. <b>Oil & Gas / Energy : 9%</b>
    1. [2.0%] Exxon Mobil Corp - XOM
-   1. [3.0%] Canadian Natural Resource - CNQ  
+   1. [2.0%] Canadian Natural Resource - CNQ  
    1. [5.0%] Occidental Petroleum - OXY  
   
 1. <b>Industrial : 10%</b>
