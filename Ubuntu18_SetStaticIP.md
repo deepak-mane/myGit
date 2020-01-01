@@ -29,3 +29,24 @@ drwxr-xr-x   2 root root  4096 Jan  1 13:40 .
 deeps@ubuntu-ipc:/etc/netplan$
 
 ```
+
+Once done save and close the file and apply the changes with:
+```sh
+sudo netplan apply
+```
+Verify the changes by typing:
+
+deeps@ubuntu-ipc:~/vim/src$ ip addr show dev enp0s8
+3: enp0s8: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether xx:00:xx:xx:xx:xxx brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.30/24 brd 192.168.1.255 scope global noprefixroute enp0s8
+       valid_lft forever preferred_lft forever
+    inet6 xxx::xxx:xxxx:xxxx:xxxxx scope link
+       valid_lft forever preferred_lft forever
+deeps@ubuntu-ipc:~/vim/src$
+```
+
+That's it! You have assigned a static IP to your Ubuntu server.
+
+
+
