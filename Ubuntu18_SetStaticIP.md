@@ -18,3 +18,14 @@ network:
           addresses: [8.8.8.8, 1.1.1.1]
 
 ```
+Contents of netplan directory
+```sh
+deeps@ubuntu-ipc:/etc/netplan$ ls -alrt
+total 24
+-rw-r--r--   1 root root   104 Aug  5 12:11 01-network-manager-all.yaml
+drwxr-xr-x 125 root root 12288 Jan  1 13:26 ..
+-rw-r--r--   1 root root   214 Jan  1 13:40 01-netcfg.yaml
+drwxr-xr-x   2 root root  4096 Jan  1 13:40 .
+deeps@ubuntu-ipc:/etc/netplan$
+
+```
