@@ -35,7 +35,7 @@ Once done save and close the file and apply the changes with:
 sudo netplan apply
 ```
 Verify the changes by typing:
-
+```sh
 deeps@ubuntu-ipc:~/vim/src$ ip addr show dev enp0s8
 3: enp0s8: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
     link/ether xx:00:xx:xx:xx:xxx brd ff:ff:ff:ff:ff:ff
