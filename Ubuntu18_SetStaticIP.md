@@ -4,7 +4,7 @@
 
 Create sudo nano /etc/netplan/01-netcfg.yaml and paste below
 
-```bash
+```sh
 network:
   version: 2
   renderer: networkd
