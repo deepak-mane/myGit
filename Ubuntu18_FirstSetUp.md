@@ -59,3 +59,9 @@ $ sudo apt install build-essential dkms linux-headers-$(uname -r)
 6. Now to enable Shared Clipboard and Drag’n’Drop functionality between Guest and Host Machine. Go to General => Advanced and enable the two options (Shared Clipboard and Drag’n’Drop) as you wish, from the drop down options. Then click OK to save the settings and boot your system, login and test if everything is working fine.
 
 You have successfully installed VirtualBox Guest Additions on Ubuntu and Debian based distributions
+
+### How to setup No Password for sudo
+Update /etc/sudoers in the last line as
+```
+myusername ALL=NOPASSWD: ALL
+```
