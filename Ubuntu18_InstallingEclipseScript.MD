@@ -2,7 +2,13 @@
 
 
 ```sh
-######## INSTALLING ECLIPSE ON UBUNTU STEPS - SCRIPT###################################
+######## INSTALLING ECLIPSE ON UBUNTU STEPS - SCRIPT########################################
+#!/bin/sh
+# Script Name : install_eclipse_ide.sh
+# Author      : Deepak Mane
+# Version     : 1.0
+# Description : Installs pre-requisites and eclipse after downloading the specific version.
+###########################################################################################
 cd /tmp
 sudo apt purge --auto-remove cmake
 sudo -E add-apt-repository -y ppa:george-edison55/cmake-3.x
@@ -68,5 +74,5 @@ su -c "yum install java-1.8.0-openjdk"
 #CheckUpdates by setting /root/workspace as dir
 #After udpating quit and then Open Eclipse as <normal-user>
 }
-
+### End of Script ###
 ```
