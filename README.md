@@ -1,6 +1,6 @@
 # myGit
-Git Hub Usage,tricks Notes 
-- [Mastering Github Markdown](https://guides.github.com/features/mastering-markdown/)
++ Git Hub Usage,tricks Notes 
++ [Mastering Github Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Bitbucket & Git
 - [git-config](https://git-scm.com/docs/git-config)
