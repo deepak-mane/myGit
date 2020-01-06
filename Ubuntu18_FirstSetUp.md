@@ -9,8 +9,9 @@ sudo apt-get install net-tools tree git openssh-server ifupdown ssh curl yum -y
 sudo apt-get install make build-essential libssl-dev zlib1g-dev libbz2-dev \
     libreadline-dev libsqlite3-dev wget libncurses5-dev libncursesw5-dev \
     llvm xz-utils tk-dev libffi-dev liblzma-dev -y
-sudo apt-get install gcc make
-
+sudo apt-get install gcc make -y
+sudo apt-get install build-essential dkms linux-headers-$(uname -r) -y
+sudo echo "$USERNAME ALL=NOPASSWD: ALL: >> /etc/sudoers
 ```
 The best way to install Vim on Unix is to use the sources. This requires a compiler and its support files. Compiling Vim isn't difficult at all. You can simply type "make install" when you are happy with the default features. Edit the Makefile in the "src" directory to select specific features.
 You need to download at the sources and the runtime files. And apply all the latest patches. For Vim 6 up to 7.2 you can optionally get the "lang" archive, which adds translated messages and menus. For 7.3 and later this is included with the runtime files.
