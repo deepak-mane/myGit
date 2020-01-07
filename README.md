@@ -1,7 +1,13 @@
 # myGit
 + Git Hub Usage,tricks Notes 
 + [Mastering Github Markdown](https://guides.github.com/features/mastering-markdown/)
++ [How do I provide a Username and password when running git clone?](https://stackoverflow.com/questions/10054318/how-do-i-provide-a-username-and-password-when-running-git-clone-gitremote-git)
 
+```sh
+git config --global credential.helper cache
+git config --global credential.https://github.com.username deepak-mane
+git clone https://github.com/deepak-mane/mycpp.git
+```
 ## Bitbucket & Git
 - [git-config](https://git-scm.com/docs/git-config)
                                                           
