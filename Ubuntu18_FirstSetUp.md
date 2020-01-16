@@ -72,3 +72,4 @@ myusername ALL=NOPASSWD: ALL
 2) search vundle for vim on google and clone the [git repo](https://github.com/VundleVim/Vundle.vim.git)
 3) install vim & gvim ``` sudo yum install vim ```
 4) Read [how-to-use-vundle-to-manage-vim-plugins-](https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps)
+5) Add Plugins for C++ [setting-up-vim-for-c-development](https://idorobotics.com/2018/04/01/setting-up-vim-for-c-development/)
