@@ -4,6 +4,10 @@ Install the below packages after you have install Ubunut 18.04
 [Setting Up Ubuntu on VM ](https://dev.to/awwsmm/setting-up-an-ubuntu-vm-on-windows-server-2g23)
 
 ```sh
+# update .bashrc with PS1
+PS1='\[`[ $? = 0 ] && X=2 || X=1; tput setaf $X`\]\h\[`tput sgr0`\]:$PWD\n\$ '
+
+
 sudo apt-get update && sudo apt-get upgrade -y
 sudo apt-get install net-tools tree git openssh-server ifupdown ssh curl yum -y
 sudo apt-get install make build-essential libssl-dev zlib1g-dev libbz2-dev \
