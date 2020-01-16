@@ -66,3 +66,9 @@ Update /etc/sudoers in the last line as
 ```
 myusername ALL=NOPASSWD: ALL
 ```
+
+### How to install vim 
+1) Save the .vimrc file from this location to your home
+2) search vundle for vim on google and clone the [git repo](https://github.com/VundleVim/Vundle.vim.git)
+3) install vim & gvim ``` sudo yum install vim ```
+4) Read [how-to-use-vundle-to-manage-vim-plugins-](https://www.digitalocean.com/community/tutorials/how-to-use-vundle-to-manage-vim-plugins-on-a-linux-vps)
