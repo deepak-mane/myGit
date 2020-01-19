@@ -250,3 +250,48 @@ grant all privileges on *.* to 'deecent'@'localhost';
 FLUSH PRIVILEGES;
 mysql -p -u deecent
 ```
+
+### Important Setup After Above mysql installation and changing default root password
+1) Install mysql workbench ``` sudo yum install mysql-workbench-community ```
+2) Create a database in mysql database server 
+
+```
+mysql> create database `blog_data`
+    -> ;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| blog_data          |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+5 rows in set (0.01 sec)
+
+mysql> quit
+Bye
+
+```
+3) Install mysqlclient using pip
+
+```
+You should install the mysql first:
+yum install python-devel mysql-community-devel -y
+Then you can install mysqlclient:
+pip install  mysqlclient
+
+$ pip install  mysqlclient
+Collecting mysqlclient
+  Using cached https://files.pythonhosted.org/packages/d0/97/7326248ac8d5049968bf4ec708a5d3d4806e412a42e74160d7f266a3e03a/mysqlclient-1.4.6.tar.gz
+Installing collected packages: mysqlclient
+    Running setup.py install for mysqlclient ... done
+Successfully installed mysqlclient-1.4.6
+(virtual) (base) centos7:/opt/dental/dental
+$ history
+
+
+```
