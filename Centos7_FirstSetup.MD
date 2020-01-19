@@ -286,12 +286,11 @@ pip install  mysqlclient
 
 $ pip install  mysqlclient
 Collecting mysqlclient
-  Using cached https://files.pythonhosted.org/packages/d0/97/7326248ac8d5049968bf4ec708a5d3d4806e412a42e74160d7f266a3e03a/mysqlclient-1.4.6.tar.gz
+  Using cached https://files.pythonhosted.org/packages/../../mysqlclient-1.4.6.tar.gz
 Installing collected packages: mysqlclient
     Running setup.py install for mysqlclient ... done
 Successfully installed mysqlclient-1.4.6
 (virtual) (base) centos7:/opt/dental/dental
-$ history
-
-
 ```
+4) In settings.py update ``` ALLOWED_HOSTS = ["192.168.1.XX"] ```
+
