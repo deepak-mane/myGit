@@ -251,7 +251,7 @@ FLUSH PRIVILEGES;
 mysql -p -u deecent
 ```
 
-### Important Setup After Above mysql installation and changing default root password
+# Setup After Above mysql installation and changing default root password - Django App Build
 1) Install mysql workbench ``` sudo yum install mysql-workbench-community ```
 2) Create a database in mysql database server 
 
@@ -293,4 +293,4 @@ Successfully installed mysqlclient-1.4.6
 (virtual) (base) centos7:/opt/dental/dental
 ```
 4) In settings.py update ``` ALLOWED_HOSTS = ["192.168.1.XX"] ```
-
+5) Start the webserver ``` python manage.py runserver 192.168.1.XX:8000 ```
