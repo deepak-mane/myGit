@@ -224,3 +224,17 @@ $
 
 
 ````
+
+### Creating User and setup
+
+```
+# check version after installation
+mysqladmin -u root -p version 
+# Create User
+CREATE USER 'username'@'localhost' IDENTIFIED BY '12charpassword';
+GRANT ALL PRIVILEGES ON database.table TO 'deecent'@'localhost';
+# In order for the changes to take effect and the privileges to be 
+# saved the following command should be executed at the end:
+FLUSH PRIVILEGES;
+mysql -p -u deecent
+```
