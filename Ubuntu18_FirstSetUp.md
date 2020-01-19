@@ -149,10 +149,10 @@ You’ll receive feedback on the strength of your new password, and then you’l
 Output
 Estimated strength of the password: 100
 Change the password for root ? (Press y|Y for Yes, any other key for No) :
-After we decline the prompt to change the password again, we’ll press Y and 
-then ENTER to all the subsequent questions in order to remove anonymous 
-users, disallow remote root login, remove the test database and access to 
-it, and reload the privilege tables.
+After we decline the prompt to change the password again, we’ll press Y
+and then ENTER to all the subsequent questions in order to remove 
+anonymous users, disallow remote root login, remove the test database 
+and access to it, and reload the privilege tables.
 ```
 
 Now that we’ve secured the installation, let’s test it.
