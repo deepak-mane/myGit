@@ -26,6 +26,11 @@ sudo rpm -ivh mysql80-community-release-el7-3.noarch.rpm
 sudo yum install mysql-server
 Press y to confirm that you want to proceed. Since we’ve just added the package, we’ll also be prompted to accept its GPG key. Press y to download it and complete the install.
 
+Install MySQL workbench which would be needed for GUI interface when working on Linux systems
+```
+sudo yum install mysql-workbench-community
+```
+
 - <b>Step 2 — Starting MySQL</b>
   1. We’ll start the daemon with the following command: 
   
