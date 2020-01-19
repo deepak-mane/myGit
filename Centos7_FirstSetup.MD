@@ -29,6 +29,12 @@ Press y to confirm that you want to proceed. Since we’ve just added the packag
 Install MySQL workbench which would be needed for GUI interface when working on Linux systems
 ```
 sudo yum install mysql-workbench-community
+
+# To Launch the MySQL Workbench from terminal run below command:
+mysql-workbench
+
+# This should popup GUI window where you enter the root password for the first time 
+# save in the keychain ring by entering the hosts login credentials for authentication purposes.
 ```
 
 - <b>Step 2 — Starting MySQL</b>
