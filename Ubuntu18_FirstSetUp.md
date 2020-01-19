@@ -84,12 +84,17 @@ myusername ALL=NOPASSWD: ALL
 CentOS 7 prefers MariaDB, a fork of MySQL managed by the original MySQL developers and designed as a replacement for MySQL. If you run yum install mysql on CentOS 7, it is MariaDB that is installed rather than MySQL. If you’re wondering about MySQL vs. MariaDB, MariaDB will generally work seamlessly in place of MySQL, so unless you have a specific use-case for MySQL, see the How To Install MariaDB on Centos 7 guide.
 
 - <b>Step 1 — Installing MySQL</b>
-  1. From https://dev.mysql.com/downloads/repo/yum/ find correct version of rpm needed for your OS (mysql80-community-release-el7-3.noarch.rpm)
-  2. Run command ``` wget https://dev.mysql.com/get/mysql80-community-release-el7-3.noarch.rpm ```
-  3. Verify the integrity of the download by running md5sum and comparing it with the corresponding MD5 value listed on the site
+1. From https://dev.mysql.com/downloads/repo/yum/ find correct version of rpm needed for your OS (mysql80-community-release-el7-3.noarch.rpm)
+2. Run command ``` wget https://dev.mysql.com/get/mysql80-community-release-el7-3.noarch.rpm ```
+3. Verify the integrity of the download by running md5sum and comparing it with the corresponding MD5 value listed on the site
+  
 ```ssh
 export myvar=$(md5sum mysql80-community-release-el7-3.noarch.rpm | awk '{print $1}')
-if [ $myvar == "893b55d5d885df5c4d4cf7c4f2f6c1531" ];then  echo "PASS" ; else echo "FAIL" ;fi
+if [ $myvar == "893b55d5d885df5c4d4cf7c4f2f6c153" ];then  
+    echo "PASS" ; 
+else 
+    echo "FAIL" ;
+fi
 ```
   4. This adds two new MySQL yum repositories, and we can now use them to install MySQL server:
 
@@ -101,15 +106,9 @@ sudo yum install mysql-server
 Press y to confirm that you want to proceed. Since we’ve just added the package, we’ll also be prompted to accept its GPG key. Press y to download it and complete the install.
 
 - <b>Step 2 — Starting MySQL</b>
-  1. We’ll start the daemon with the following command:
-
-``` sudo systemctl start mysqld ```
-systemctl doesn’t display the outcome of all service management commands, so to be sure we succeeded, we’ll use the following 
-command:
-
-``` sudo systemctl status mysqld ```
-
-If MySQL has successfully started, the output should contain Active: active (running) and the final line should look something like:
+  1. We’ll start the daemon with the following command: ``` sudo systemctl start mysqld ```
+  systemctl doesn’t display the outcome of all service management commands, so to be sure we succeeded, we’ll use the following command: ``` sudo systemctl status mysqld ```
+  If MySQL has successfully started, the output should contain Active: active (running) and the final line should look something like:
 
 ```
 Dec 01 19:02:20 centos-512mb-sfo2-02 systemd[1]: Started MySQL Server.
