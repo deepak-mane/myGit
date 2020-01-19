@@ -121,7 +121,8 @@ During the installation process, a temporary password is generated for the MySQL
 ```
 sudo grep 'temporary password' /var/log/mysqld.log
 Output
-2016-12-01T00:22:31.416107Z 1 [Note] A temporary password is generated for root@localhost: mqRfBU_3Xk>r
+2016-12-01T00:22:31.416107Z 1 [Note] A temporary password is generated for 
+root@localhost: mqRfBU_3Xk>r
 ```
 
 Make note of the password, which you will need in the next step to secure the installation and where you will be forced to change it. The default password policy requires 12 characters, with at least one uppercase letter, one lowercase letter, one number and one special character.
@@ -129,17 +130,14 @@ Make note of the password, which you will need in the next step to secure the in
 - <b>Step 3 — Configuring MySQL</b>
 MySQL includes a security script to change some of the less secure default options for things like remote root logins and sample users.
 
-Use this command to run the security script.
-
-```
-sudo mysql_secure_installation
-```
+Use this command to run the security script. ``` sudo mysql_secure_installation ```
 
 This will prompt you for the default root password. As soon as you enter it, you will be required to change it.
 
 ```
 Output
-The existing password for the user account root has expired. Please set a new password.
+The existing password for the user account root has expired. 
+Please set a new password.
 New password:
 ```
 
@@ -151,7 +149,10 @@ You’ll receive feedback on the strength of your new password, and then you’l
 Output
 Estimated strength of the password: 100
 Change the password for root ? (Press y|Y for Yes, any other key for No) :
-After we decline the prompt to change the password again, we’ll press Y and then ENTER to all the subsequent questions in order to remove anonymous users, disallow remote root login, remove the test database and access to it, and reload the privilege tables.
+After we decline the prompt to change the password again, we’ll press Y and 
+then ENTER to all the subsequent questions in order to remove anonymous 
+users, disallow remote root login, remove the test database and access to 
+it, and reload the privilege tables.
 ```
 
 Now that we’ve secured the installation, let’s test it.
@@ -180,7 +181,8 @@ Connection              Localhost via UNIX socket
 UNIX socket             /var/lib/mysql/mysql.sock
 Uptime:                 2 min 17 sec
 
-Threads: 1  Questions: 6  Slow queries: 0  Opens: 107  Flush tables: 1  Open tables: 100  Queries per second avg: 0.043
+Threads: 1  Questions: 6  Slow queries: 0  Opens: 107  Flush tables: 1  
+Open tables: 100  Queries per second avg: 0.043
 ```
 This indicates your installation has been successful.
 
