@@ -27,3 +27,30 @@ Type
 putty remote_user@remote_host
 ```
 This should log you without password
+
+
+
+# Using .pem key ssh to remote host
+
+First cache the key
+```cmd
+echo y | plink -ssh username@host "exit"
+```
+
+On Linux Do
+```
+sudo yum install putty
+```
+
+Using Puttygen , load priavte key , Navigate to Conversions, Selecte Export Open sshkey and save with name mykey.pem
+
+To convert permissions on Windows
+```
+click right on mykey.per file
+security > options advanced > disable heritage
+add > select entity o group > "type your user windows" > confirm name > accept > set basic perm > accept
+```
+To Logon to server using .pem key now type below:
+```
+ssh -i mykey.pem user@mydomain.com
+```
