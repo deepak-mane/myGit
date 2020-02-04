@@ -294,3 +294,20 @@ Successfully installed mysqlclient-1.4.6
 ```
 4) In settings.py update ``` ALLOWED_HOSTS = ["192.168.1.XX"] ```
 5) Start the webserver ``` python manage.py runserver 192.168.1.XX:8000 ```
+
+
+### How to Start-Stop MySQL Server on CentOS Server
+Working with Linux Servers and you often need to start/stop/restart services. Many a times we just restart the complete server to restart services. However, restarting the server for restarting services is not recommended and we can restart the services manually via commands as well. This small post is to explain how you can start/stop/restart MySQL server from command line on CentOS Server.
+
+Stop MySQL Server
+```sh
+# /etc/init.d/mysqld stop
+```
+Start MySQL Server
+```sh
+# /etc/init.d/mysqld start
+```
+Restart MySQL Server
+```sh
+# /etc/init.d/mysqld restart
+```
