@@ -144,3 +144,17 @@ Ivan Westen, World Class IT Education
 Academind by Maximilian Schwarzmüller, Online Education
 11. ) JavaScript - The Complete Guide 2020 (Beginner + Advanced. )  (*****. ) 
 Academind by Maximilian Schwarzmüller, Online Education
+
+### Abhishek Sagar, Network Protocol Developer at Juniper
++ Theory Based Courses:
+  - Linux System Programming Techniques & Concepts
+  - Network Concepts and Programming from Scratch - Academic LvL
++ Project Based Courses:
+  - System C Project - Write a Garbage Collector from Scratch
+  - Master Class : TCP/IP Mechanics from Scratch to Expert
+  - Build Remote Procedure Calls (RPC) - from scratch in C
+  - Linux Inter Process Communication (IPC) from Scratch
+  - System C/C++ Project : Design and Implement Timer/Schedulers
+  - Integrate CLI interface to your C/C++ Projects Quickly
+  - Networking Coding Projects - Implement TCP/IP Stack in C
+
