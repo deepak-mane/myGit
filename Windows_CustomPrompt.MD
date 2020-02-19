@@ -43,7 +43,7 @@ DOSKEY ba=call "C:\D\APP\Dropbox\BATCH\env.listbatch.cmd"
 DOSKEY reload=call "C:\D\APP\Dropbox\BATCH\reload.cmd"
 DOSKEY aconda=%windir%\System32\cmd.exe "/K" D:\APP\Anaconda3\Scripts\activate.bat D:\APP\Anaconda3
 DOSKEY env1=activate carnd-term1
-DOSKEY mydesk=ping pcz0615 -t
+DOSKEY mydesk=ping xxxx -t
 
 setlocal enabledelayedexpansion
 SET "TAB=      "
