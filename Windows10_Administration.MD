@@ -76,3 +76,15 @@ Other commands of interest are:
 Net user administrator - Displays information about the user account on the command line.
 Net user username /delete - Deletes username on the system. This does not work with built-in accounts.
 ```
+
+## How to invoke run as administrator but providing the password
+```WScript
+@if (@CodeSection == @Batch) @then
+@echo off
+start "" runas /user:administrator "cmd.exe /k cd/d D:\"
+CScript //nologo //E:JScript "%~F0"
+REM PAUSE
+goto :EOF
+@end
+WScript.CreateObject("WScript.Shell").SendKeys("xxxxx{ENTER}");
+```
