@@ -1,4 +1,4 @@
-# Windows - custom promot batch file
+# Windows - custom prompt batch file
 
 
 ```bat
