@@ -2,10 +2,6 @@
 
 
 ```bat
-
-
-
-
 @echo off
 :: Temporary system path at cmd startup
 TITLE PROFILE SET FOR %USERNAME% ON %COMPUTERNAME% - %USERNAME% - %DATE% %TIME%
@@ -48,8 +44,6 @@ DOSKEY reload=call "C:\D\APP\Dropbox\BATCH\reload.cmd"
 DOSKEY aconda=%windir%\System32\cmd.exe "/K" D:\APP\Anaconda3\Scripts\activate.bat D:\APP\Anaconda3
 DOSKEY env1=activate carnd-term1
 DOSKEY mydesk=ping pcz0615 -t
-
-
 
 setlocal enabledelayedexpansion
 SET "TAB=      "
