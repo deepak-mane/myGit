@@ -80,4 +80,31 @@ myusername ALL=NOPASSWD: ALL
 6) Actual Vim.[tutorial-make-vim-as-your-cc-ide-using-cvim](https://www.thegeekstuff.com/2009/01/tutorial-make-vim-as-your-cc-ide-using-cvim-plugin/)
 
 
+### When starting Virtual Box VM got the below Error everytime
+/~/software/ParticleRuntime/v84/bin/glnxa64/libcurl.so.4: no version information available (required by curl)
+
+__Solution-Working__
+
+1. First locate the location of libcurl:
+```sh
+locate libcurl.so.4
+Probably like this
+
+ /usr/lib/x86_64-linux-gnu/libcurl.so.4
+ /usr/lib/x86_64-linux-gnu/libcurl.so.4.3.0
+ /usr/local/lib/libcurl.so.4
+ /usr/local/lib/libcurl.so.4.4.0
+```
+2. Deleted the soft link for this conflict
+```sh
+ rm -rf /usr/local/lib/libcurl.so.4
+```
+3.Then, link the 4.3.0 static library to the top
+```sh
+ln -s /usr/lib/x86_64-linux-gnu/libcurl.so.4.3.0 /usr/local/lib/libcurl.so.4
+```
+
+
+
+
 
