@@ -105,6 +105,36 @@ ln -s /usr/lib/x86_64-linux-gnu/libcurl.so.4.3.0 /usr/local/lib/libcurl.so.4
 ```
 
 
+```sh
+<deeps@sdcndub:/usr/local/lib
+>sudo rm -rf libcurl.so.4
+<deeps@sdcndub:/usr/local/lib
+>ls -alrt libcurl*       
+-rwxr-xr-x 1 root root 1857168 Sep 30  2018 libcurl.so.4.0.0
+lrwxrwxrwx 1 root root      16 Sep 30  2018 libcurl.so -> libcurl.so.4.0.0
+-rwxr-xr-x 1 root root     889 Sep 30  2018 libcurl.la
+-rw-r--r-- 1 root root 4442650 Sep 30  2018 libcurl.a
+<deeps@sdcndub:/usr/local/lib
+>sudo ln -s /usr/lib/x86_64-linux-gnu/libcurl.so.4.5.0 /usr/local/lib/libcurl.so.4
+<deeps@sdcndub:/usr/local/lib
+>ls -alrt
+total 6184
+drwxrwsr-x  3 root staff    4096 Sep 29  2018 python3.6
+-rwxr-xr-x  1 root root  1857168 Sep 30  2018 libcurl.so.4.0.0
+lrwxrwxrwx  1 root root       16 Sep 30  2018 libcurl.so -> libcurl.so.4.0.0
+-rwxr-xr-x  1 root root      889 Sep 30  2018 libcurl.la
+-rw-r--r--  1 root root  4442650 Sep 30  2018 libcurl.a
+drwxr-xr-x  2 root root     4096 Sep 30  2018 pkgconfig
+drwxr-xr-x 11 root root     4096 Jun 13  2019 ..
+drwxrwsr-x  4 root staff    4096 Jan  1 10:47 python2.7
+drwxr-xr-x  6 root root     4096 Jan 21 22:09 node_modules
+lrwxrwxrwx  1 root root       42 Feb 19 21:49 libcurl.so.4 -> /usr/lib/x86_64-linux-gnu/libcurl.so.4.5.0
+drwxr-xr-x  6 root root     4096 Feb 19 21:49 .
+<deeps@sdcndub:/usr/local/lib
+>ls -alrt libcurl.so.4
+lrwxrwxrwx 1 root root 42 Feb 19 21:49 libcurl.so.4 -> /usr/lib/x86_64-linux-gnu/libcurl.so.4.5.0
+<deeps@sdcndub:/usr/local/lib
 
+```
 
 
