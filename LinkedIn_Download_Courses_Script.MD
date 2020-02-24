@@ -1,7 +1,35 @@
+# To Download LinkedIn Learning Courses
 
+
+- Install the below requirements for your python virtual environment
+
+```python
+# requirements.txt
+aiohttp
+lxml% 
+```
+- edit config.py and place in thje same directory where the script linkedin_learning.py
+
+```python
+# copy this file as `config.py`
+
+import os
+
+# EDIT
+USERNAME = 'xxxxx@xxxx'
+PASSWORD = '#########'
+COURSES = ['code-clinic-c-plus-plus-2014']
+
+# EDIT IF YOU NEED TO
+BASE_DOWNLOAD_PATH = os.path.join(os.path.dirname(__file__), "downloads")
+USE_PROXY = False
+PROXY = "http://127.0.0.1:8888" if USE_PROXY else None
+```
 
 
 ```python
+# Script Name : linkedin_learning.py
+
 import asyncio
 import aiohttp
 import aiohttp.cookiejar
@@ -239,3 +267,8 @@ if __name__ == "__main__":
 
 
 ```
+
+- execute the script as 
+```python
+python linkedin_learning.py
+``
