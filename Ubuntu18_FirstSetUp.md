@@ -3,6 +3,8 @@
 Install the below packages after you have install Ubunut 18.04
 [Setting Up Ubuntu on VM ](https://dev.to/awwsmm/setting-up-an-ubuntu-vm-on-windows-server-2g23)
 
+[0 ways Linux is just better!](https://www.youtube.com/watch?v=mAFMJ1LnQu8)
+
 ```sh
 # update .bashrc with PS1
 PS1='\[`[ $? = 0 ] && X=2 || X=1; tput setaf $X`\]\h\[`tput sgr0`\]:$PWD\n\$ '
