@@ -67,6 +67,9 @@ $ sudo apt install build-essential dkms linux-headers-$(uname -r)
 
 You have successfully installed VirtualBox Guest Additions on Ubuntu and Debian based distributions
 
+### How to Work with LibreOffice
+- [Working with Pivot Tables in LibreOffice Calc](https://www.youtube.com/watch?v=Ez89YMcVSUI)
+
 ### How to setup No Password for sudo
 Update /etc/sudoers in the last line as
 ```
